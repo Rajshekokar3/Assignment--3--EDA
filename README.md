@@ -33,3 +33,14 @@ To run the notebook, ensure you have the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_username/eda-project.git
+
+## Goals
+The main goal of this notebook is to:
+
+Understand the dataset's structure and variables.
+Identify key patterns and trends.
+Provide a foundation for future machine learning models.
+
+
+## Contributing
+Contributions are welcome! If you'd like to add new visualizations or extend the analysis, feel free to open a pull request.
